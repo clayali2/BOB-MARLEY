@@ -1,0 +1,59 @@
+body{
+  background: url(BOB.png) no-repeat;
+  background-size: 100%;
+  background-position:center;
+
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+p {
+    font-family: "Verdana", serif;
+    font-size: 16px;
+    color:#581845;
+}
+
+ h1{
+    border: 0px;
+    background:#CEBAB2;
+   	margin:center;
+	font-size: 16px;
+	color: white;
+	
+}
+div.container {
+	
+	width: 70%;
+    border: 0px;
+    background:#EAD3CE;
+    position:center;
+	padding: 15px 15px 15px 15px;
+	margin: auto;
+	border-radius: 25px;
+}
+img{
+	border-radius: 25px;
+
+}
